@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الدردشة</string>
+    <string name="welcome_back">مرحبًا بعودتك</string>
+    <string name="login_to_continue">الرجاء تسجيل الدخول</string>
+    <string name="email">البريد إلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="create_new_account">انشاء حساب جديد</string>
+    <string name="add_image">"إضافة صورة "</string>
+    <string name="name">"الاسم "</string>
+    <string name="confirm_password">تأكيد كلمه المرور</string>
+    <string name="select_user">اختر مستخدم</string>
+    <string name="type_a_message">"اكتب رسالة "</string>
+    <string name="online">متصل</string>
+    <string name="sign_up">تسجيل</string>
+    <string name="change_language">"تغيير اللغة "</string>
+    <string name="change_account_info">"تغيير معلومات الحساب "</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="select_language">اختار اللغة</string>
+    <string name="click_back_again_to_exit">انقر مره اخرى على زر الرجوع للخروج من التطبيق</string>
+    <string name="search">البحث</string>
+    <string name="save">حقظ</string>
+    <string name="current_password">كلمة المرور الحاليه</string>
+    <string name="new_password">كلمة المرور الجديده</string>
+    <string name="confirm_new_password">تأكيد كلمه المرور الجديده</string>
+    <string name="click_again_to_forget_changes">انقر مره اخرى لالغاء التعديلات</string>
+    <string name="something_went_wrong">حدث خطاء ما</string>
+    <string name="this_field_can_t_be_empty">هذا الحقل لا يمكن ان يكون فارغ</string>
+    <string name="name_should_include_first_and_last_name">الاسم يجب ان يتكون من الاسم الاول والاخير</string>
+    <string name="email_form_only_contain_hotmail_outlook_gmail_and_yahoo">البريد الالكتروني يجب ان يكون من hotmail, outlook, yahoo او gmail</string>
+    <string name="password_should_contain">"كلمه المرور تتكون من "</string>
+    <string name="at_least_4_numbers">على الاقل اربع ارقام</string>
+    <string name="at_least_one_lower_case_letter">على الاقل حرف صغير واحد</string>
+    <string name="at_least_one_upper_case_letter">على الاقل حرف كبير واحد</string>
+    <string name="at_least_one_special_character">على الاقل رمز واحد</string>
+    <string name="no_white_spaces">بدون مسافات او فراغات</string>
+    <string name="password_and_confirmation_password_are_not_matching">كلمه المرور وتاكيد كلمه المرور لا تتطابقان</string>
+    <string name="can_t_be_empty">لا يمكن ان يكون فارغ</string>
+    <string name="there_is_an_error_please_contact_supports">هناك خلل ما ارجو الاتصال بالدعم</string>
+    <string name="password_changed_successfully">تم تغيير كلمه المرور بنجاح</string>
+    <string name="enter_valid_email">ادخل بريد الكتروني صالح</string>
+    <string name="unable_to_sign_in">غير قادر على تسجيل الدخول</string>
+</resources>

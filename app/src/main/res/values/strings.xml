@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">chat</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="online">Online</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="change_language">change language</string>
+    <string name="change_account_info">Change account info</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="select_language">Select Language</string>
+    <string name="click_back_again_to_exit">Click back again to exit</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="click_again_to_forget_changes">click again to forget changes</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="this_field_can_t_be_empty">this field can\'t be empty</string>
+    <string name="name_should_include_first_and_last_name">Name should include first and last name</string>
+    <string name="email_form_only_contain_hotmail_outlook_gmail_and_yahoo">Email form only contain hotmail, outlook, gmail and yahoo</string>
+    <string name="password_should_contain">Password should contain</string>
+    <string name="at_least_4_numbers">At least 4 numbers</string>
+    <string name="at_least_one_lower_case_letter">At least one lower case letter</string>
+    <string name="at_least_one_upper_case_letter">At least one upper case letter</string>
+    <string name="at_least_one_special_character">At least one special character</string>
+    <string name="no_white_spaces">No white spaces</string>
+    <string name="password_and_confirmation_password_are_not_matching">Password and confirmation password are not matching</string>
+    <string name="can_t_be_empty">" can't be empty"</string>
+    <string name="there_is_an_error_please_contact_supports">there is an error please contact supports</string>
+    <string name="password_changed_successfully">Password changed successfully</string>
+    <string name="enter_valid_email">Enter valid email</string>
+    <string name="unable_to_sign_in">Unable to sign in</string>
+
+</resources>
