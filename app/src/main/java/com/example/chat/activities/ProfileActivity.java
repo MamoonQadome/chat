@@ -139,7 +139,12 @@ public class ProfileActivity extends AppCompatActivity {
                     startActivity(new Intent(getApplicationContext(), SignInActivity.class));
                     finish();
                 })
-                .addOnFailureListener(e -> showToast("Unable to sign out"));
+                .addOnFailureListener(e -> {
+                            showToast("Unable to sign out");
+                            loading(false);
+                        }
+                
+                );
     }
 
     private void loading( Boolean isLoading){

@@ -240,7 +240,7 @@ public class ChatActivity extends BaseActivity {
                 chatMessages.add(chatMessage);
                 }
             }
-            Collections.sort(chatMessages, (obj1,obj2) -> obj2.dateObject.compareTo(obj1.dateObject) );
+            Collections.sort(chatMessages, (obj1,obj2) -> obj1.dateObject.compareTo(obj2.dateObject) );
 
             if(count == 0){
                 chatAdapter.notifyDataSetChanged();
@@ -289,7 +289,7 @@ public class ChatActivity extends BaseActivity {
     }
 
     private String getReadableDateTime(Date date){
-        return new SimpleDateFormat("MMMM dd, yyyy - hh:mm a", Locale.getDefault()).format(date);
+        return new SimpleDateFormat("MMMM dd, - hh:mm a", Locale.getDefault()).format(date);
     }
 
     private void addConversion(HashMap<String,Object> conversion){
