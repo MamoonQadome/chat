@@ -14,6 +14,7 @@ import android.view.View;
 import android.widget.Toast;
 
 
+import com.example.chat.R;
 import com.example.chat.adapters.ChatAdapter;
 import com.example.chat.databinding.ActivityChatBinding;
 import com.example.chat.databinding.ActivityMainBinding;
@@ -167,7 +168,7 @@ public class ChatActivity extends BaseActivity {
                 }
                 else {
 //                    showToast("Error: "+response.code());
-                    showToast("there is something went wrong");
+                    showToast(getString(R.string.something_went_wrong));
                 }
             }
 

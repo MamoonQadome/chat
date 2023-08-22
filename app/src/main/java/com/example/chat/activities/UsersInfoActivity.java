@@ -18,8 +18,6 @@ import com.google.firebase.firestore.FirebaseFirestore;
 public class UsersInfoActivity extends AppCompatActivity {
 
     private ActivityUsersInfoBinding binding;
-    private User user;
-    FirebaseFirestore database;
     private PreferenceManager preferenceManager;
 
 
